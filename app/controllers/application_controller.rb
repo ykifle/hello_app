@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
 
   def hello
     if true
-      puts 'hi'
+      puts 'hsi'
     end
     render text: "¡Hola, mundos!"
   end
